@@ -12,4 +12,4 @@ PostScrape lets you scrape targeted html nodes in enumerateable http POST reques
 
 ## License
 
-The [MIT license](LICENSE.md). [goquery's license is BSD 3-Clause license](https://github.com/PuerkitoBio/goquery).
+The [MIT license](LICENSE). [goquery's license is BSD 3-Clause license](https://github.com/PuerkitoBio/goquery).
